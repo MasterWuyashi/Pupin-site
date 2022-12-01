@@ -1,0 +1,56 @@
+#Div{
+line-height: 1.8;
+
+}
+
+    #Text{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+#body{
+
+
+    border-width: 20px;
+    border-style: ridge;
+    border-color: cadetblue;
+    background-color: blanchedalmond;
+}
+
+#Lit {
+    border-width: 7px;
+    border-style: outset;
+    border-color: burlywood;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family:'Courier New', Courier, monospace;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    background-color: bisque;
+    text-align: center;
+}
+
+#MainPage{
+    font-family: fantasy;
+    border-width: 30px;
+    border-style: groove;
+    border-color: thistle;
+    background-color:#DDDDDD;
+}
+#MyBod{
+    font-family:cursive;
+border-width: 24px;
+border-style: double;
+border-color: darkcyan;
+background-color: wheat;
+
+}
+a{text-decoration: none;
+color: black;}
+#Bod{
+    border-width: 35px;
+border-style: inset;
+border-color: aqua;
+background-color: rgb(145, 198, 203);
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
